@@ -11,7 +11,7 @@ I’ve worked on real-time communication systems, omni-channel platforms, VoIP s
 
 I enjoy working on complex architectures, improving performance, and turning ideas into working products.
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +19,7 @@ I enjoy working on complex architectures, improving performance, and turning ide
 
 **Frontend:** React, Next.js, Vue.js, React Native, Redux, Zustand, TanStack Query  
 
-**UI Libraries:** Material UI, Tailwind, ShadCN UI, Bootstrap, Headless UI  
+**UI Libraries:** Material UI, Tailwind CSS, ShadCN UI, Bootstrap, Headless UI  
 
 **Backend:** Node.js, Express.js, FastAPI, Django, Flask, GraphQL, REST APIs, WebSockets, RabbitMQ, Redis  
 
@@ -45,9 +45,9 @@ I enjoy working on complex architectures, improving performance, and turning ide
 ---
 
 ## 📫 Contact Me
-- 📧 Email: faizanazam6980@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/faizanazam/
-- 💻 GitHub: https://github.com/FAIZANAZAM123
+- 📧 Email: faizanazam6980@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/faizanazam/  
+- 💻 GitHub: https://github.com/FAIZANAZAM123  
 
 ---
 
