@@ -19,7 +19,7 @@ React • Next.js • Node.js • TypeScript • WebSockets • MongoDB • Post
 ## 📫 Contact Me
 - 📧 Email: faizanazam6980@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/faizanazam/
-- 🧑‍💻 GitHub: https://github.com/FAIZANAZAM123
+- 💻 GitHub: https://github.com/FAIZANAZAM123
 
 ---
 
